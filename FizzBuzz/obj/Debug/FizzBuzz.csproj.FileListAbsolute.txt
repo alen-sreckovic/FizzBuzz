@@ -1,0 +1,5 @@
+/Users/alen/VisualStudioProjects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe
+/Users/alen/VisualStudioProjects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/alen/VisualStudioProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csprojAssemblyReference.cache
+/Users/alen/VisualStudioProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.exe
+/Users/alen/VisualStudioProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.pdb
